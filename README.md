@@ -40,6 +40,8 @@ The following scenarios were implemented successfully:
 - 5 Customers make payments to 2 Merchants
 
 ---
+<img width="1688" height="867" alt="Screenshot 2026-05-25 042034" src="https://github.com/user-attachments/assets/f9675c84-29eb-4122-9c7e-b5329852abcd" />
+---
 
 # 🛠️ Tools & Technologies Used
 
